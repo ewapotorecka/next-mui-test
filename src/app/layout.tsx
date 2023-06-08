@@ -1,4 +1,4 @@
-import { MuiSetup } from "@/app/MuiSetup";
+import { MuiSetup } from "@/styles/MuiSetup";
 import "./globals.css";
 import { Inter } from "next/font/google";
 
